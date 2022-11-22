@@ -11,23 +11,29 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/\V\<open\>
+~MSle0~/bin
 
 # Command Line History (newest to oldest):
-:wq
-|2,0,1664888279,,"wq"
 :q!
-|2,0,1664881325,,"q!"
+|2,0,1669064195,,"q!"
+:wq
+|2,0,1668419396,,"wq"
+:Wq
+|2,0,1666591278,,"Wq"
+:q!]
+|2,0,1665783041,,"q!]"
+:q
+|2,0,1665666913,,"q"
 :WQ
 |2,0,1664879571,,"WQ"
-:q
-|2,0,1664878114,,"q"
 :qw
 |2,0,1664055637,,"qw"
 :x
 |2,0,1664021786,,"x"
 
 # Search String History (newest to oldest):
+?/bin/bash
+|2,1,1665497274,47,"bin/bash"
 
 # Expression History (newest to oldest):
 
@@ -36,418 +42,912 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-""1	CHAR	0
+"0	LINE	0
+	
+|3,0,0,1,1,0,1665496995,""
+"1	CHAR	0
 	
 	
-|3,1,1,0,2,0,1664058108,"",""
-"-	CHAR	0
-	i
-|3,0,36,0,1,0,1664022677,"i"
+|3,0,1,0,2,0,1664058108,"",""
+""-	CHAR	0
+	t
+|3,1,36,0,1,0,1667379073,"t"
 
 # File marks:
-'0  2  22  ~/alx-zero_day/0x03-git/bash/alx
-|4,48,2,22,1664888279,"~/alx-zero_day/0x03-git/bash/alx"
-'1  1  0  bash/alx
-|4,49,1,0,1664881325,"bash/alx"
-'2  2  19  ~/alx-zero_day/0x03-git/bash/school
-|4,50,2,19,1664881098,"~/alx-zero_day/0x03-git/bash/school"
-'3  2  10  ~/alx-zero_day/0x03-git/bash/alx
-|4,51,2,10,1664881063,"~/alx-zero_day/0x03-git/bash/alx"
-'4  2  19  ~/alx-zero_day/0x03-git/bash/school
-|4,52,2,19,1664880799,"~/alx-zero_day/0x03-git/bash/school"
-'5  2  22  ~/alx-zero_day/0x03-git/bash/alx
-|4,53,2,22,1664880725,"~/alx-zero_day/0x03-git/bash/alx"
-'6  2  22  ~/alx-zero_day/0x03-git/bash/alx
-|4,54,2,22,1664880725,"~/alx-zero_day/0x03-git/bash/alx"
-'7  2  7  ~/alx-zero_day/0x03-git/bash/school
-|4,55,2,7,1664880561,"~/alx-zero_day/0x03-git/bash/school"
-'8  2  7  ~/alx-zero_day/0x03-git/bash/school
-|4,56,2,7,1664880561,"~/alx-zero_day/0x03-git/bash/school"
-'9  2  4  ~/alx-zero_day/0x03-git/bash/alx
-|4,57,2,4,1664880528,"~/alx-zero_day/0x03-git/bash/alx"
+'0  66  0  ~/printf/_printf.c
+|4,48,66,0,1669064195,"~/printf/_printf.c"
+'1  1  0  ~/alx-low_level_programming/0x0D-preprocessor/README.md
+|4,49,1,0,1668419448,"~/alx-low_level_programming/0x0D-preprocessor/README.md"
+'2  1  0  ~/alx-low_level_programming/0x0D-preprocessor/0-object_like_macro.h
+|4,50,1,0,1668419396,"~/alx-low_level_programming/0x0D-preprocessor/0-object_like_macro.h"
+'3  13  8  ~/alx-low_level_programming/qwert/README.md
+|4,51,13,8,1668028689,"~/alx-low_level_programming/qwert/README.md"
+'4  2  13  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,52,2,13,1668028602,"~/alx-low_level_programming/qwert/3-array_range.c"
+'5  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,53,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+'6  2  13  ~/alx-low_level_programming/qwert/1-string_nconcat.c
+|4,54,2,13,1668028550,"~/alx-low_level_programming/qwert/1-string_nconcat.c"
+'7  3  13  ~/alx-low_level_programming/qwert/101-mul.c
+|4,55,3,13,1668028521,"~/alx-low_level_programming/qwert/101-mul.c"
+'8  2  14  ~/alx-low_level_programming/qwert/100-realloc.c
+|4,56,2,14,1668028489,"~/alx-low_level_programming/qwert/100-realloc.c"
+'9  2  13  ~/alx-low_level_programming/qwert/0-malloc_checked.c
+|4,57,2,13,1668028461,"~/alx-low_level_programming/qwert/0-malloc_checked.c"
 
 # Jumplist (newest first):
--'  2  22  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,22,1664888279,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  bash/alx
-|4,39,1,0,1664881325,"bash/alx"
--'  1  0  bash/alx
-|4,39,1,0,1664881325,"bash/alx"
--'  2  19  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,19,1664881098,"~/alx-zero_day/0x03-git/bash/school"
--'  2  19  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,19,1664881098,"~/alx-zero_day/0x03-git/bash/school"
--'  2  19  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,19,1664881098,"~/alx-zero_day/0x03-git/bash/school"
--'  2  19  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,19,1664881098,"~/alx-zero_day/0x03-git/bash/school"
--'  2  10  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,10,1664881063,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  10  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,10,1664881063,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  10  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,10,1664881063,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  10  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,10,1664881063,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  19  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,19,1664880799,"~/alx-zero_day/0x03-git/bash/school"
--'  2  19  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,19,1664880799,"~/alx-zero_day/0x03-git/bash/school"
--'  2  19  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,19,1664880799,"~/alx-zero_day/0x03-git/bash/school"
--'  2  19  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,19,1664880799,"~/alx-zero_day/0x03-git/bash/school"
--'  2  19  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,19,1664880799,"~/alx-zero_day/0x03-git/bash/school"
--'  2  19  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,19,1664880799,"~/alx-zero_day/0x03-git/bash/school"
--'  2  19  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,19,1664880799,"~/alx-zero_day/0x03-git/bash/school"
--'  2  19  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,19,1664880799,"~/alx-zero_day/0x03-git/bash/school"
--'  2  22  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,22,1664880725,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  22  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,22,1664880725,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  22  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,22,1664880725,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  22  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,22,1664880725,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  22  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,22,1664880725,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  22  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,22,1664880725,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  22  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,22,1664880725,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  22  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,22,1664880725,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  7  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,7,1664880561,"~/alx-zero_day/0x03-git/bash/school"
--'  2  7  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,7,1664880561,"~/alx-zero_day/0x03-git/bash/school"
--'  2  7  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,7,1664880561,"~/alx-zero_day/0x03-git/bash/school"
--'  2  7  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,7,1664880561,"~/alx-zero_day/0x03-git/bash/school"
--'  2  7  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,7,1664880561,"~/alx-zero_day/0x03-git/bash/school"
--'  2  7  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,7,1664880561,"~/alx-zero_day/0x03-git/bash/school"
--'  2  7  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,7,1664880561,"~/alx-zero_day/0x03-git/bash/school"
--'  2  7  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,7,1664880561,"~/alx-zero_day/0x03-git/bash/school"
--'  2  7  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,7,1664880561,"~/alx-zero_day/0x03-git/bash/school"
--'  2  7  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,7,1664880561,"~/alx-zero_day/0x03-git/bash/school"
--'  2  7  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,7,1664880561,"~/alx-zero_day/0x03-git/bash/school"
--'  2  7  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,7,1664880561,"~/alx-zero_day/0x03-git/bash/school"
--'  2  7  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,7,1664880561,"~/alx-zero_day/0x03-git/bash/school"
--'  2  7  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,7,1664880561,"~/alx-zero_day/0x03-git/bash/school"
--'  2  7  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,7,1664880561,"~/alx-zero_day/0x03-git/bash/school"
--'  2  7  ~/alx-zero_day/0x03-git/bash/school
-|4,39,2,7,1664880561,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  1  0  ~/alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1664880542,"~/alx-zero_day/0x03-git/bash/school"
--'  2  4  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,4,1664880528,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  4  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,4,1664880528,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  4  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,4,1664880528,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  4  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,4,1664880528,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  4  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,4,1664880528,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  4  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,4,1664880528,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  4  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,4,1664880528,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  4  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,4,1664880528,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  4  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,4,1664880528,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  4  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,4,1664880528,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  4  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,4,1664880528,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  4  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,4,1664880528,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  4  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,4,1664880528,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  4  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,4,1664880528,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  4  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,4,1664880528,"~/alx-zero_day/0x03-git/bash/alx"
--'  2  4  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,2,4,1664880528,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1664880507,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1664880507,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1664880507,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1664880507,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1664880507,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1664880507,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1664880507,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1664880507,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1664880507,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1664880507,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1664880507,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1664880507,"~/alx-zero_day/0x03-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x03-git/bash/alx
-|4,39,1,0,1664880507,"~/alx-zero_day/0x03-git/bash/alx"
+-'  66  0  ~/printf/_printf.c
+|4,39,66,0,1669064195,"~/printf/_printf.c"
+-'  1  0  ~/printf/_printf.c
+|4,39,1,0,1669064159,"~/printf/_printf.c"
+-'  1  0  ~/alx-low_level_programming/0x0D-preprocessor/README.md
+|4,39,1,0,1668419448,"~/alx-low_level_programming/0x0D-preprocessor/README.md"
+-'  1  0  ~/alx-low_level_programming/0x0D-preprocessor/README.md
+|4,39,1,0,1668419448,"~/alx-low_level_programming/0x0D-preprocessor/README.md"
+-'  1  0  ~/alx-low_level_programming/0x0D-preprocessor/0-object_like_macro.h
+|4,39,1,0,1668419396,"~/alx-low_level_programming/0x0D-preprocessor/0-object_like_macro.h"
+-'  1  0  ~/alx-low_level_programming/0x0D-preprocessor/0-object_like_macro.h
+|4,39,1,0,1668419396,"~/alx-low_level_programming/0x0D-preprocessor/0-object_like_macro.h"
+-'  1  0  ~/alx-low_level_programming/0x0D-preprocessor/0-object_like_macro.h
+|4,39,1,0,1668419396,"~/alx-low_level_programming/0x0D-preprocessor/0-object_like_macro.h"
+-'  1  0  ~/alx-low_level_programming/0x0D-preprocessor/0-object_like_macro.h
+|4,39,1,0,1668419396,"~/alx-low_level_programming/0x0D-preprocessor/0-object_like_macro.h"
+-'  13  8  ~/alx-low_level_programming/qwert/README.md
+|4,39,13,8,1668028689,"~/alx-low_level_programming/qwert/README.md"
+-'  13  8  ~/alx-low_level_programming/qwert/README.md
+|4,39,13,8,1668028689,"~/alx-low_level_programming/qwert/README.md"
+-'  13  8  ~/alx-low_level_programming/qwert/README.md
+|4,39,13,8,1668028689,"~/alx-low_level_programming/qwert/README.md"
+-'  13  8  ~/alx-low_level_programming/qwert/README.md
+|4,39,13,8,1668028689,"~/alx-low_level_programming/qwert/README.md"
+-'  13  8  ~/alx-low_level_programming/qwert/README.md
+|4,39,13,8,1668028689,"~/alx-low_level_programming/qwert/README.md"
+-'  13  8  ~/alx-low_level_programming/qwert/README.md
+|4,39,13,8,1668028689,"~/alx-low_level_programming/qwert/README.md"
+-'  13  8  ~/alx-low_level_programming/qwert/README.md
+|4,39,13,8,1668028689,"~/alx-low_level_programming/qwert/README.md"
+-'  13  8  ~/alx-low_level_programming/qwert/README.md
+|4,39,13,8,1668028689,"~/alx-low_level_programming/qwert/README.md"
+-'  1  0  ~/alx-low_level_programming/qwert/README.md
+|4,39,1,0,1668028642,"~/alx-low_level_programming/qwert/README.md"
+-'  1  0  ~/alx-low_level_programming/qwert/README.md
+|4,39,1,0,1668028642,"~/alx-low_level_programming/qwert/README.md"
+-'  1  0  ~/alx-low_level_programming/qwert/README.md
+|4,39,1,0,1668028642,"~/alx-low_level_programming/qwert/README.md"
+-'  1  0  ~/alx-low_level_programming/qwert/README.md
+|4,39,1,0,1668028642,"~/alx-low_level_programming/qwert/README.md"
+-'  1  0  ~/alx-low_level_programming/qwert/README.md
+|4,39,1,0,1668028642,"~/alx-low_level_programming/qwert/README.md"
+-'  1  0  ~/alx-low_level_programming/qwert/README.md
+|4,39,1,0,1668028642,"~/alx-low_level_programming/qwert/README.md"
+-'  1  0  ~/alx-low_level_programming/qwert/README.md
+|4,39,1,0,1668028642,"~/alx-low_level_programming/qwert/README.md"
+-'  1  0  ~/alx-low_level_programming/qwert/README.md
+|4,39,1,0,1668028642,"~/alx-low_level_programming/qwert/README.md"
+-'  2  13  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,2,13,1668028602,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  2  13  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,2,13,1668028602,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  2  13  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,2,13,1668028602,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  2  13  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,2,13,1668028602,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  2  13  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,2,13,1668028602,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  2  13  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,2,13,1668028602,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  2  13  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,2,13,1668028602,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  2  13  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,2,13,1668028602,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  2  13  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,2,13,1668028602,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  2  13  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,2,13,1668028602,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  2  13  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,2,13,1668028602,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  2  13  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,2,13,1668028602,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  2  13  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,2,13,1668028602,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  2  13  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,2,13,1668028602,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  2  13  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,2,13,1668028602,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  2  13  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,2,13,1668028602,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  1  0  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,1,0,1668028585,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  1  0  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,1,0,1668028585,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  1  0  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,1,0,1668028585,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  1  0  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,1,0,1668028585,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  1  0  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,1,0,1668028585,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  1  0  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,1,0,1668028585,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  1  0  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,1,0,1668028585,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  1  0  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,1,0,1668028585,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  1  0  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,1,0,1668028585,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  1  0  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,1,0,1668028585,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  1  0  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,1,0,1668028585,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  1  0  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,1,0,1668028585,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  1  0  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,1,0,1668028585,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  1  0  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,1,0,1668028585,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  1  0  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,1,0,1668028585,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  1  0  ~/alx-low_level_programming/qwert/3-array_range.c
+|4,39,1,0,1668028585,"~/alx-low_level_programming/qwert/3-array_range.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  2  13  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,2,13,1668028577,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  1  0  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,1,0,1668028555,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  1  0  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,1,0,1668028555,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  1  0  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,1,0,1668028555,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  1  0  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,1,0,1668028555,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  1  0  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,1,0,1668028555,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  1  0  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,1,0,1668028555,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  1  0  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,1,0,1668028555,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  1  0  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,1,0,1668028555,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  1  0  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,1,0,1668028555,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  1  0  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,1,0,1668028555,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  1  0  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,1,0,1668028555,"~/alx-low_level_programming/qwert/2-calloc.c"
+-'  1  0  ~/alx-low_level_programming/qwert/2-calloc.c
+|4,39,1,0,1668028555,"~/alx-low_level_programming/qwert/2-calloc.c"
 
 # History of marks within files (newest to oldest):
 
-> ~/alx-zero_day/0x03-git/bash/alx
-	*	1664888277	0
-	"	2	22
-	^	2	23
-	.	2	22
-	+	2	22
+> ~/printf/_printf.c
+	*	1669064191	0
+	"	66	0
+	^	66	1
+	.	66	0
+	+	66	0
 
-> bash/alx
-	*	1664881315	0
+> ~/alx-low_level_programming/0x0D-preprocessor/README.md
+	*	1668419444	0
 	"	1	0
-	^	1	0
-	.	1	0
-	+	1	0
 
-> ~/alx-zero_day/0x03-git/bash/school
-	*	1664881097	0
-	"	2	19
-	^	2	20
+> ~/alx-low_level_programming/0x0D-preprocessor/0-object_like_macro.h
+	*	1668419394	0
+	"	1	0
+
+> ~/alx-low_level_programming/qwert/README.md
+	*	1668028688	0
+	"	13	8
+	^	13	9
+	.	13	7
+	+	13	7
+
+> ~/alx-low_level_programming/qwert/3-array_range.c
+	*	1668028600	0
+	"	2	13
+	^	2	14
+	.	2	13
+	+	2	13
+
+> ~/alx-low_level_programming/qwert/2-calloc.c
+	*	1668028575	0
+	"	2	13
+	^	2	14
+	.	2	13
+	+	2	13
+
+> ~/alx-low_level_programming/qwert/1-string_nconcat.c
+	*	1668028546	0
+	"	2	13
+	^	2	14
+	.	2	13
+	+	2	13
+
+> ~/alx-low_level_programming/qwert/101-mul.c
+	*	1668028520	0
+	"	3	13
+	^	3	14
+	.	3	14
+	+	3	14
+
+> ~/alx-low_level_programming/qwert/100-realloc.c
+	*	1668028487	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	2	14
+
+> ~/alx-low_level_programming/qwert/0-malloc_checked.c
+	*	1668028460	0
+	"	2	13
+	^	2	14
+	.	2	13
+	+	2	13
+
+> ~/alx-low_level_programming/0x0B-malloc_free/5-argstostr.c
+	*	1667825928	0
+	"	2	13
+	^	2	14
+	.	2	13
+	+	2	13
+
+> ~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c
+	*	1667825906	0
+	"	2	13
+	^	2	14
+	.	2	13
+	+	2	13
+
+> ~/alx-low_level_programming/0x0B-malloc_free/3-alloc_grid.c
+	*	1667825883	0
+	"	2	13
+	^	2	14
+	.	2	13
+	+	2	13
+
+> ~/alx-low_level_programming/0x0B-malloc_free/2-str_concat.c
+	*	1667825860	0
+	"	2	13
+	^	2	14
+	.	2	13
+	+	2	13
+
+> ~/alx-low_level_programming/0x0B-malloc_free/1-strdup.c
+	*	1667825826	0
+	"	2	13
+	^	2	14
+	.	2	13
+	+	2	13
+
+> ~/alx-low_level_programming/0x0B-malloc_free/100-strtow.c
+	*	1667825791	0
+	"	2	13
+	^	2	14
+	.	2	13
+	+	2	13
+
+> ~/alx-low_level_programming/0x0B-malloc_free/0-create_array.c
+	*	1667825760	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	2	14
+
+> ~/alx-low_level_programming/0x09-static_libraries/libmy.a
+	*	1667565131	0
+	"	1	0
+
+> ~/alx-low_level_programming/qwer/_putchar.c
+	*	1667564971	0
+	"	1	0
+
+> ~/alx-low_level_programming/qwer/4-add.c
+	*	1667564958	0
+	"	2	13
+	^	2	14
+	.	2	13
+	+	2	13
+
+> ~/alx-low_level_programming/qwer/3-mul.c
+	*	1667564936	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	2	14
+
+> ~/alx-low_level_programming/qwer/2-args.c
+	*	1667564913	0
+	"	2	13
+	^	2	14
+	.	2	13
+	+	2	13
+
+> ~/alx-low_level_programming/qwer/1-args.c
+	*	1667564867	0
+	"	2	13
+	^	2	14
+	.	2	13
+	+	2	13
+
+> ~/alx-low_level_programming/qwer/100-change.c
+	*	1667564847	0
+	"	3	13
+	^	3	14
+	.	3	13
+	+	3	13
+
+> ~/alx-low_level_programming/qwer/0-whatsmyname.c
+	*	1667564821	0
+	"	2	13
+	^	2	14
+	.	2	13
+	+	2	13
+
+> ~/alx-low_level_programming/0x08-recursion/100-wildcmp.c
+	*	1667379081	0
+	"	20	2
+	^	20	3
+	.	20	3
+	+	20	3
+
+> ~/holbertonschool-low_level_programming/0x08-static_libraries/libholberton.a
+	*	1666591440	0
+	"	1	0
+
+> ~/holbertonschool-low_level_programming/0x08-static_libraries/create_static_lib.sh
+	*	1666591418	0
+	"	1	0
+
+> ~/holbertonschool-low_level_programming/0x07-recursion/7-is_palindrome.c
+	*	1666591380	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/holbertonschool-low_level_programming/0x07-recursion/5-sqrt_recursion.c
+	*	1666591360	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/holbertonschool-low_level_programming/0x07-recursion/4-pow_recursion.c
+	*	1666591341	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/holbertonschool-low_level_programming/0x07-recursion/6-is_prime_number.c
+	*	1666591302	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/holbertonschool-low_level_programming/0x07-recursion/3-factorial.c
+	*	1666591278	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/holbertonschool-low_level_programming/0x07-recursion/2-strlen_recursion.c
+	*	1666591256	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/holbertonschool-low_level_programming/0x07-recursion/1-print_rev_recursion.c
+	*	1666591232	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/holbertonschool-low_level_programming/0x07-recursion/100-wildcmp.c
+	*	1666591214	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/holbertonschool-low_level_programming/0x07-recursion/0-puts_recursion.c
+	*	1666591195	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/holbertonschool-low_level_programming/0x06-pointers_arrays_strings/_putchar.c
+	*	1666590999	0
+	"	1	0
+
+> ~/holbertonschool-low_level_programming/0x06-pointers_arrays_strings/9-set_string.c
+	*	1666590987	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/holbertonschool-low_level_programming/0x06-pointers_arrays_strings/8-print_diagsums.c
+	*	1666590964	0
+	"	2	13
+	^	2	14
 	.	3	0
-	+	2	20
 	+	3	0
 
-> ~/alx-zero_day/bash/school
-	*	1664879605	0
-	"	2	7
-	^	2	8
-	.	2	0
-	+	2	0
+> ~/holbertonschool-low_level_programming/0x06-pointers_arrays_strings/7-print_chessboard.c
+	*	1666590933	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
 
-> ~/alx-zero_day/bash/alx
-	*	1664879571	0
-	"	2	4
-	^	2	5
-	.	2	4
-	+	2	0
-	+	2	4
+> ~/holbertonschool-low_level_programming/0x06-pointers_arrays_strings/5-strstr.c
+	*	1666590912	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
 
-> ~/alx-zero_day/js/index.js
-	*	1664879519	0
+> ~/holbertonschool-low_level_programming/0x06-pointers_arrays_strings/4-strpbrk.c
+	*	1666590892	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/holbertonschool-low_level_programming/0x06-pointers_arrays_strings/3-strspn.c
+	*	1666590873	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/holbertonschool-low_level_programming/0x06-pointers_arrays_strings/2-strchr.c
+	*	1666590847	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/holbertonschool-low_level_programming/0x06-pointers_arrays_strings/1-memcpy.c
+	*	1666590828	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/holbertonschool-low_level_programming/0x06-pointers_arrays_strings/101-crackme_password
+	*	1666590805	0
 	"	1	0
 
-> ~/zero_day/0x00-vagrant/README.md
-	*	1664791657	0
-	"	1	5
-	^	1	6
-	.	1	5
-	+	1	5
-
-> ~/zero_day/0x00-vagrant/0-hello_ubuntu
-	*	1664791340	0
-	"	1	4
-	^	1	5
-	.	1	4
-	+	1	4
-
-> ~/zero_day/README.md
-	*	1664790678	0
-	"	1	42
-	^	1	43
-	.	1	42
-	+	1	42
-
-> ~/zero_day.git/README.md
-	*	1664787163	0
-	"	1	43
-	^	1	44
-	.	1	43
-	+	1	43
-
-> /alx-pre_course/0x01-git/wewe
-	*	1664265817	0
-	"	1	20
-	^	1	21
-	.	1	20
-	+	1	20
-
-> /alx-pre_course/0x01-git/bash/school
-	*	1664060369	0
-	"	2	18
-	^	2	19
-	.	2	18
-	+	2	18
-
-> /alx-pre_course/0x01-git/bash/alx
-	*	1664060138	0
-	"	2	23
-	^	2	24
-	.	2	24
-	+	1	33
-	+	2	24
+> ~/holbertonschool-low_level_programming/0x06-pointers_arrays_strings/0-memset.c
+	*	1666590790	0
+	"	1	9
+	^	1	10
+	.	1	10
 	+	1	10
-	+	2	24
 
-> /alx-pre_course/up_to_date
-	*	1664058594	0
-	"	1	7
-	^	1	8
-	.	1	7
-	+	1	7
+> ~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c
+	*	1666590661	0
+	"	1	0
 
-> /alx-pre_course/.git/COMMIT_EDITMSG
-	*	1664058130	0
-	"	1	6
-	^	1	7
-	.	2	0
-	+	1	7
+> ~/alx-low_level_programming/0x06-pointers_arrays_strings/8-rot13.c
+	*	1666590649	0
+	"	1	13
+	^	1	14
+	.	1	14
+	+	1	14
+
+> ~/alx-low_level_programming/0x06-pointers_arrays_strings/7-leet.c
+	*	1666590620	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x06-pointers_arrays_strings/6-cap_string.c
+	*	1666590600	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x06-pointers_arrays_strings/5-string_toupper.c
+	*	1666590576	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x06-pointers_arrays_strings/4-rev_array.c
+	*	1666590552	0
+	"	1	13
+	^	1	14
+	.	1	14
+	+	1	14
+
+> ~/alx-low_level_programming/0x06-pointers_arrays_strings/3-strcmp.c
+	*	1666590518	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x06-pointers_arrays_strings/2-strncpy.c
+	*	1666590498	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x06-pointers_arrays_strings/1-strncat.c
+	*	1666590475	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x06-pointers_arrays_strings/101-magic.c
+	*	1666590449	0
+	"	1	0
+
+> ~/alx-low_level_programming/0x06-pointers_arrays_strings/100-print_number.c
+	*	1666590430	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-strcat.c
+	*	1666590400	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x05-pointers_arrays_strings/_putchar.c
+	*	1666589837	0
+	"	1	0
+
+> ~/alx-low_level_programming/0x05-pointers_arrays_strings/9-strcpy.c
+	*	1666589822	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x05-pointers_arrays_strings/8-print_array.c
+	*	1666589799	0
+	"	2	13
+	^	2	14
+	.	2	13
+	+	2	13
+
+> ~/alx-low_level_programming/0x05-pointers_arrays_strings/7-puts_half.c
+	*	1666589777	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x05-pointers_arrays_strings/6-puts2.c
+	*	1666589753	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x05-pointers_arrays_strings/5-rev_string.c
+	*	1666589718	0
+	"	1	13
+	^	1	14
+	.	1	14
+	+	1	14
+
+> ~/alx-low_level_programming/0x05-pointers_arrays_strings/4-print_rev.c
+	*	1666589694	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x05-pointers_arrays_strings/3-puts.c
+	*	1666589670	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x05-pointers_arrays_strings/2-strlen.c
+	*	1666589643	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x05-pointers_arrays_strings/1-swap.c
+	*	1666589622	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x05-pointers_arrays_strings/101-keygen.c
+	*	1666589599	0
+	"	1	0
+	^	1	0
+
+> ~/alx-low_level_programming/0x05-pointers_arrays_strings/100-atoi.c
+	*	1666589580	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
+	*	1666589549	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x03-more_functions_nested_loops/0-isupper.c
+	*	1666268783	0
+	"	10	7
+	^	10	8
+	.	10	7
 	+	2	0
+	+	9	28
+	+	9	40
+	+	9	48
+	+	9	39
+	+	10	27
+	+	9	79
+	+	10	29
+	+	12	0
+	+	11	1
+	+	10	7
 
-> /alx-pre_course/0x01-git/bash/a
-	*	1664057311	0
+> ~/alx-low_level_programming/0x03-more_functions_nested_loops/9-fizz_buzz.c
+	*	1666267601	0
+	"	37	0
+	^	37	0
+	.	36	1
+	+	1	13
+	+	36	1
+
+> ~/alx-low_level_programming/0x03-more_functions_nested_loops/8-print_square.c
+	*	1666267299	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x03-more_functions_nested_loops/7-print_diagonal.c
+	*	1666267274	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x03-more_functions_nested_loops/6-print_line.c
+	*	1666267256	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x03-more_functions_nested_loops/5-more_numbers.c
+	*	1666267233	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x03-more_functions_nested_loops/4-print_most_numbers.c
+	*	1666267215	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x03-more_functions_nested_loops/3-print_numbers.c
+	*	1666267188	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x03-more_functions_nested_loops/2-mul.c
+	*	1666267163	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x03-more_functions_nested_loops/1-isdigit.c
+	*	1666267142	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x03-more_functions_nested_loops/10-print_triangle.c
+	*	1666267123	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x03-more_functions_nested_loops/101-print_number.c
+	*	1666267099	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x03-more_functions_nested_loops/100-prime_factor.c
+	*	1666267078	0
 	"	1	0
 
-> /alx-pre_course/0x01-git/js/main.js
-	*	1664056993	0
-	"	1	0
+> ~/alx-low_level_programming/0x03-debugging/3-print_remaining_days.c
+	*	1666208359	0
+	"	2	13
+	^	2	14
+	.	2	13
+	+	2	13
 
-> ~/0x03_vi/pasting
-	*	1664023482	0
-	"	1	0
-	^	1	1
-	.	1	0
-	+	1	0
+> ~/alx-low_level_programming/0x03-debugging/2-largest_number.c
+	*	1666208323	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
 
-> ~/pasting
-	*	1664023401	0
-	"	1	0
+> ~/alx-low_level_programming/0x02-functions_nested_loops/9-times_table.c
+	*	1666118638	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
 
-> ~/0x03_vi/end_of_the_line
-	*	1664023278	0
-	"	1	0
-	^	1	1
-	.	1	0
-	+	1	0
+> ~/alx-low_level_programming/0x02-functions_nested_loops/8-24_hours.c
+	*	1666118620	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
 
-> ~/0x03_vi/beginning_of_the_line
-	*	1664023210	0
-	"	1	0
-	^	1	1
-	.	1	0
-	+	1	0
+> ~/alx-low_level_programming/0x02-functions_nested_loops/100-times_table.c
+	*	1666118586	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
 
-> ~/0x03_vi/exiting
-	*	1664023152	0
-	"	1	2
-	^	1	3
-	.	1	2
-	+	1	2
+> ~/alx-low_level_programming/0x02-functions_nested_loops/7-print_last_digit.c
+	*	1666118550	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
 
-> ~/0x03_vi/undoing
-	*	1664023090	0
-	"	1	0
-	^	1	1
-	.	1	0
-	+	1	0
+> ~/alx-low_level_programming/0x02-functions_nested_loops/6-abs.c
+	*	1666118530	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
 
-> ~/0x03_vi/cutting
-	*	1664022931	0
-	"	1	1
-	^	1	2
-	.	1	1
-	+	1	1
+> ~/alx-low_level_programming/0x02-functions_nested_loops/5-sign.c
+	*	1666118509	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
 
-> ~/0x03_vi/inserting
-	*	1664022797	0
-	"	1	0
-	^	1	1
-	.	1	0
-	+	1	0
-	+	1	1
-	+	1	0
+> ~/alx-low_level_programming/0x02-functions_nested_loops/4-isalpha.c
+	*	1666118489	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
 
-> /0x03_vi/inserting
-	*	1664021756	0
-	"	1	0
-	^	1	1
-	.	1	0
-	+	1	0
+> ~/alx-low_level_programming/0x02-functions_nested_loops/3-islower.c
+	*	1666118471	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
 
-> /0x03_vi/inserting.
-	*	1664021678	0
-	"	1	0
+> ~/alx-low_level_programming/0x02-functions_nested_loops/2-print_alphabet_x10.c
+	*	1666118452	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/1-alphabet.c
+	*	1666118425	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/11-print_to_98.c
+	*	1666118402	0
+	"	2	13
+	^	2	14
+	.	2	13
+	+	2	13
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/10-add.c
+	*	1666118381	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13

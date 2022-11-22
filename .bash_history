@@ -1,3 +1,0 @@
-cd /root
-ls
-exit
